@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">WineApp</string>
+    <string name="btEdit">editar</string>
+    <string name="btAdd">añadir</string>
+    <string name="btBack">volver</string>
+    <string name="etNombre">Nombre</string>
+    <string name="etBodega">Bodega</string>
+    <string name="etColor">Color</string>
+    <string name="etOrigen">Origen</string>
+    <string name="etGraduacion">Graduación</string>
+    <string name="etFecha">Fecha</string>
+    <string name="etId">ID</string>
+    <string name="btConfirmar">confirmar</string>
+    <string name="btDelete">borrar</string>
+    <string name="etEditId">ID editar vino</string>
+    <string name="confirmar">confirmar</string>
+    <string name="cancelar">cancelar</string>
+</resources>
